@@ -39,4 +39,5 @@ Le vainquer reçoit 100 points et pour chaque mission réaliser reçoit 10 point
 
 # Détail des classes principales:
 # Protocole réseau : 
-![Chess](https://user-images.githubusercontent.com/107633860/197554039-8f9cd025-6eb0-45bc-bde9-9bbddefce130.png)
+![Chess (1)](https://user-images.githubusercontent.com/107633860/204522942-85db5d1a-fa61-4240-a78d-1fb355d4b926.png)
+
